@@ -3,7 +3,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=95bogyeom)]([https://solved.ac/95bogyeom](https://solved.ac/profile/95bogyeom)/)
 
 ### LeetCode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/bokyum?theme=dark&font=Amiko&ext=activity)](https://leetcode.com/bokyum)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/bokyum?theme=nord&font=Noto%20Sans%20KR&ext=activity)](https://leetcode.com/bokyum)
 
 <!--
 **bokyum/bokyum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
