@@ -1,22 +1,17 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Bogyeom%20Kim!&fontSize=45&fontAlign=50&textBg=false&reversal=true&strokeWidth=0)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=auto&text=Bogyeom%20Kim!&fontSize=45&fontAlign=50&textBg=false&reversal=true&strokeWidth=0)
 
-  <h2 align="center">Hi 👋. I'm Bogyeom Kim </h2>
+<h2 align="center">Hi 👋. I'm Bogyeom Kim </h2>
 
 
-  <p align="center">I am a developer with a keen interest in frontend development. 🤪</p>
-  <p>
-    <a href="mailto:95bogyeom@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://bogyeom-portfolio.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-2D4059?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://github.com/bogyeom95">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
+<p align="center">I am a developer with a keen interest in frontend development. 🤪</p>
+
+<p>
+<a href="mailto:95bogyeom@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp
+<a href="https://bogyeom-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2D4059?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>&nbsp
+<a href="https://github.com/bogyeom95"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 </div>
 
@@ -28,14 +23,14 @@
   <strong>Languages</strong><br>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-B91C1C?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
 <p>
   <strong>Frontend</strong><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/GSAP-3FB34F?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
 </p>
 
@@ -50,7 +45,7 @@
 <p>
   <strong>Database</strong><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 <p>
@@ -77,10 +72,3 @@
 </p>
 
 ---
-
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&textBg=false&reversal=true&strokeWidth=0)
-
-</div>
