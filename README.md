@@ -1,10 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=auto&text=Bogyeom%20Kim!&fontSize=45&fontAlign=50&textBg=false&reversal=true&strokeWidth=0)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=auto)
 
 <h2 align="center">Hi 👋. I'm Bogyeom Kim </h2>
-<p align="center">I am a developer with a keen interest in frontend development. 🤪</p>
-
 <p>
 <a href="mailto:95bogyeom@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp
 <a href="https://www.linkedin.com/in/bogyeom-kim-3bb3b133a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp
