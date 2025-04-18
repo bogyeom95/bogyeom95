@@ -28,8 +28,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff" alt="React Query" />
-  <img src="https://img.shields.io/badge/Context%20API-0187ff
-    ?style=for-the-badge&logoColor=white" alt="ContextAPI" />
+  <img src="https://img.shields.io/badge/Context%20API-0187ffc.svg?style=for-the-badge&logoColor=white" alt="ContextAPI" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/GSAP-3FB34F?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
 
